@@ -4,5 +4,5 @@ rectangle
 square
 hexagon
 pentagon
+dodecagon
 
-octagon
